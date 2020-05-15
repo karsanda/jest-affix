@@ -1,0 +1,25 @@
+{
+  "name": "jest-affix",
+  "version": "1.0.0",
+  "description": "Helps you write tests that interact with DOM in Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karsanda/jest-affix.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Pinto Karsanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karsanda/jest-affix/issues"
+  },
+  "homepage": "https://github.com/karsanda/jest-affix#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
